@@ -2,6 +2,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -22,6 +23,7 @@ body {
     background: linear-gradient(to left, #F2709C, #FF9472);
     box-shadow: 0 3px 3px -5px #F2709C, 0 2px 5px #F2709C;
     border-radius: 30px;
+    font-size: 14px;
     color: #FFF;
     height: 100%;
     width: 0;
